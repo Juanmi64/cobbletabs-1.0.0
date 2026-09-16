@@ -1,0 +1,12 @@
+{
+	"key.categories.cobbletabs": "CobbleTabs",
+	"key.cobbletabs.reload": "Reload config",
+	"cobbletabs.tab.pc": "PC",
+	"cobbletabs.tab.wiki": "Wiki",
+	"cobbletabs.tab.daycare": "Daycare",
+	"cobbletabs.tab.daily": "Daily",
+	"cobbletabs.tab.sts": "STS",
+	"cobbletabs.tab.wt": "WT",
+	"cobbletabs.toggle.hide": "Hide tabs",
+	"cobbletabs.toggle.show": "Show tabs"
+}
